@@ -1,12 +1,19 @@
-### Olá! Eu sou o Mateus Luiz Gonzaga 🖐️
+## Olá! Eu sou o Mateus Luiz Gonzaga 🖐️
+
+### Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-luiz-gonzaga/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ml_gonzaga)
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![Site](https://img.shields.io/badge/site-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
-![Mlgonzaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlgonzaga&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlgonzaga&size_weight=0.5&count_weight=0.5)
+<div style="display: inline_block">
+
+  <img align="center" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=mlgonzaga&show_icons=true&theme=dracula" />
+  <img align="center" alt="most_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlgonzaga&theme=dracula&layout=compact" width="420" height="200" style="margin-left: 15px;"/>
+
+
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -19,3 +26,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+![Snake animation](https://github.com/mlgonzaga/mlgonzagablob/output/github-contribution-grid-snake.svg)
